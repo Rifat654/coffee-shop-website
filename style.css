@@ -303,3 +303,35 @@ font-size: 25px;
 
 }
 /* section3 end*/
+/* footer start*/
+footer{
+  width: 100%;
+  height: 40vh;
+  background-color: black;
+}
+.ff-head h1{
+  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+.ff-head h1 span{
+  color: rgb(255, 94, 0);
+}
+.ff-head p{
+  color: #c9c2c2;
+  margin-top: 30px;
+  margin-left: 17px;
+}
+.ff-head p span{
+  color: rgb(255, 94, 0);
+  font-size: 20px;
+  font-weight: bold;
+}
+.ff-head i{
+  color: #fff;
+  margin-right: 20px;
+  padding: 10px 10px;
+  font-size: 30px;
+}
+/* footer end*
+
